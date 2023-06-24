@@ -4,7 +4,7 @@ import  "forge-std/Test.sol";
 import "../src/SimpleStorage.sol";
 
 abstract contract HelperContract {
-    address constant IMPORTANT_ADDRESS = 0x7109709ECfa91a80626fF3989D68f67F5b1DD12D;
+    address constant IMPORTANT_ADDRESS = 0xb4c79daB8f259C7Aee6E5b2Aa729821864227e84;
     SimpleStorage simpleStorage;
     constructor(){
 
